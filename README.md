@@ -251,7 +251,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-6. **README.md**
-   *(use the advanced README content you already have with project instructions, CLI/GUI usage, disclaimers, and GitHub push steps)*
-
